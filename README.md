@@ -8,6 +8,7 @@
 
 ### spark
 - [spark实战总结](./docs/engine/Spark学习笔记.md)
+- [【spark-tips】spark2-4-0触发的executor内存溢出排查.md](./docs/engine/【spark-tips】spark2-4-0触发的executor内存溢出排查.md)
 
 ### impala
 - [impala集群搭建](./docs/engine/impala集群搭建.md)
