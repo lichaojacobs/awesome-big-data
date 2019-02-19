@@ -27,3 +27,7 @@
 
 ### palo
 - [okhttp-support-100-continue-for-palo.md](./docs/olap/okhttp-support-100-continue-for-palo.md)
+
+
+## 优秀博文汇总
+- [大数据&&后端优秀博文汇总](./docs/learning/优秀博文汇总.pdf)
