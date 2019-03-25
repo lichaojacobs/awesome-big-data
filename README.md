@@ -31,3 +31,9 @@
 
 ## 优秀博文汇总
 - [大数据&&后端优秀博文汇总](./docs/learning/优秀博文汇总.pdf)
+
+## 分布式系统paper
+
+- Flink分布式数据流的异步快照核心实现
+	- [chandy-lamport-algorithm](./docs/learning/chandy-lamport-algorithm.pdf)
+	- [Lightweight Asynchronous Snapshots for Distributed Dataflows](./docs/learning/Lightweight Asynchronous Snapshots for Distributed Dataflows.pdf)
