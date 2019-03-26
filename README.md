@@ -34,6 +34,7 @@
 
 ## 分布式系统paper
 
+- [Raft](./docs/learning/raft.pdf)
 - Flink分布式数据流的异步快照核心实现
 	- [chandy-lamport-algorithm](./docs/learning/chandy-lamport-algorithm.pdf)
 	- [Lightweight Asynchronous Snapshots for Distributed Dataflows](./docs/learning/Snapshots-for-Distributed-Dataflows.pdf)
