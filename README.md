@@ -17,7 +17,7 @@
 ## 任务&资源调度相关
 
 - [Airflow 实战总结](./docs/scheduler/airflow实战总结.md)
-- [Yarn架构实现解析](./docs/scheduler/Hadoop 深入解析Yarn架构设计.pdf)
+- [Yarn架构实现解析](./docs/scheduler/Yarn架构解析.pdf)
 
 ## OLAP 相关
 
