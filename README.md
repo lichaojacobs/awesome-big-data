@@ -1,10 +1,11 @@
 # awesome-big-data
 大数据学习过程中一些经验总结
 
-## 计算/查询引擎相关
+## 计算/查询/存储引擎相关
 
 ### flink
 - [flink实战总结](./docs/engine/Flink实战总结.pdf)
+- [flink学习总结](./docs/engine/Flink学习.pdf)
 
 ### spark
 - [spark实战总结](./docs/engine/Spark学习笔记.md)
@@ -13,9 +14,10 @@
 ### impala
 - [impala集群搭建](./docs/engine/impala集群搭建.md)
 
-## 任务调度相关
+## 任务&资源调度相关
 
 - [Airflow 实战总结](./docs/scheduler/airflow实战总结.md)
+- [Yarn架构实现解析](./docs/scheduler/Hadoop 深入解析Yarn架构设计.pdf)
 
 ## OLAP 相关
 
