@@ -34,9 +34,10 @@
 ## 优秀博文汇总
 - [大数据&&后端优秀博文汇总](./docs/learning/优秀博文汇总.pdf)
 
-## 分布式系统paper
+## 分布式系统
 
 - [Raft](./docs/learning/raft.pdf)
+  - [Raft学习总结](./docs/learning/Raft论文学习.md)
 - Flink分布式数据流的异步快照核心实现
 	- [chandy-lamport-algorithm](./docs/learning/chandy-lamport-algorithm.pdf)
 	- [Lightweight Asynchronous Snapshots for Distributed Dataflows](./docs/learning/Snapshots-for-Distributed-Dataflows.pdf)
