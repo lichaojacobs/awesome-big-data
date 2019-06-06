@@ -9,7 +9,9 @@
 
 ### spark
 - [spark实战总结](./docs/engine/Spark学习笔记.md)
-- [【spark-tips】spark2-4-0触发的executor内存溢出排查.md](./docs/engine/【spark-tips】spark2-4-0触发的executor内存溢出排查.md)
+- [【spark-tips】spark2-4-0触发的executor内存溢出排查.md](./docs/engine/[spark-tips]spark2-4-0触发的executor内存溢出排查.md)
+- [【Spark源码分析】Dynamic-Resource-Allocation设计的思考](./docs/engine/[Spark源码分析]Dynamic-Resource-Allocation设计的思考.md)
+- [【Spark源码分析】Broadcast](./docs/engine/[Spark源码分析]Broadcast.md)
 
 ### impala
 - [impala集群搭建](./docs/engine/impala集群搭建.md)
