@@ -43,3 +43,7 @@
 - Flink分布式数据流的异步快照核心实现
 	- [chandy-lamport-algorithm](./docs/learning/chandy-lamport-algorithm.pdf)
 	- [Lightweight Asynchronous Snapshots for Distributed Dataflows](./docs/learning/Snapshots-for-Distributed-Dataflows.pdf)
+- Massively Parallel Processing (MPP Engine)
+  - [Massively Parallel Databases and MapReduce
+    Systems](./docs/learning/massive-parallel-processing.pdf)
+
