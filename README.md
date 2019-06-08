@@ -46,4 +46,6 @@
 - Massively Parallel Processing (MPP Engine)
   - [Massively Parallel Databases and MapReduce
     Systems](./docs/learning/massive-parallel-processing.pdf)
+- 火山模型
+	- [Volcano an Extensible and Parallel Query Evaluation System](./docs/learning/Volcano.pdf)
 
