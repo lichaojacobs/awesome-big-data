@@ -36,7 +36,7 @@
 ## 优秀博文汇总
 - [大数据&&后端优秀博文汇总](./docs/learning/优秀博文汇总.pdf)
 
-## 分布式系统
+## 分布式系统论文
 
 - [Raft](./docs/learning/raft.pdf)
   - [Raft学习总结](./docs/learning/Raft论文学习.md)
@@ -48,4 +48,7 @@
     Systems](./docs/learning/massive-parallel-processing.pdf)
 - 火山模型
 	- [Volcano an Extensible and Parallel Query Evaluation System](./docs/learning/Volcano.pdf)
+
+- spark论文
+	- [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](./docs/learning/spark设计论文.pdf)
 
