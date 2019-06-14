@@ -12,6 +12,7 @@
 - [【spark-tips】spark2-4-0触发的executor内存溢出排查.md](./docs/engine/spark2-4-0触发的executor内存溢出排查.md)
 - [【Spark源码分析】Dynamic-Resource-Allocation设计的思考](./docs/engine/Dynamic-Resource-Allocation设计的思考.md)
 - [【Spark源码分析】Broadcast](./docs/engine/Broadcast.md)
+- [【Spark源码分析】Job提交执行过程详解](./docs/engine/spark-job-submit.md)
 
 ### impala
 - [impala集群搭建](./docs/engine/impala集群搭建.md)
@@ -51,4 +52,5 @@
 
 - spark论文
 	- [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](./docs/learning/spark设计论文.pdf)
+	- [Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark](./docs/learning/sigmod_structured_streaming.pdf)
 
