@@ -20,7 +20,15 @@
 ## 任务&资源调度相关
 
 - [Airflow 实战总结](./docs/scheduler/airflow实战总结.md)
+
+### Yarn
 - [Yarn架构实现解析](./docs/scheduler/Yarn架构解析.pdf)
+- [Yarn-Federation源码串读](./docs/scheduler/Yarn-Federation源码串读.md)
+
+## Hadoop相关
+- [Hadoop&Yarn Rpc源码剖析](./docs/scheduler/Hadoop-Rpc源码分析.md)
+
+
 
 ## OLAP 相关
 
