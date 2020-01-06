@@ -27,6 +27,7 @@
 
 ## Hadoop相关
 - [Hadoop&Yarn Rpc源码剖析](./docs/scheduler/Hadoop-Rpc源码分析.md)
+- [MR任务在Hadoop子系统中状态流转](./docs/scheduler/MR任务在Hadoop子系统中状态流转.md)
 
 
 
