@@ -1,6 +1,9 @@
 # awesome-big-data
 大数据&&分布式系统学习过程中一些经验总结
 
+## RemoteShuffleService(RSS)
+- [各大厂RSS实现](https://zhuanlan.zhihu.com/p/462338206)
+
 ## kubernetes
 
 - [kubernetes federation深度解析](./docs/engine/kubernetes-federation深度解析.md)
@@ -49,6 +52,8 @@
 - [大数据&&后端优秀博文汇总](./docs/learning/优秀博文汇总.pdf)
 
 ## 分布式系统论文
+
+- [Howard大佬维护的共识算法知识库](https://github.com/heidihoward/distributed-consensus-reading-list)
 
 - [Raft](./docs/learning/raft.pdf)
   - [Raft学习总结](./docs/learning/Raft论文学习.md)
