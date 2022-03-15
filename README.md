@@ -53,7 +53,7 @@
 
 ## 分布式系统论文
 
-- [Howard大佬维护的共识算法知识库](https://github.com/heidihoward/distributed-consensus-reading-list)
+- ⭐️⭐️⭐️⭐️⭐️ [Howard大佬维护的共识算法知识库](https://github.com/heidihoward/distributed-consensus-reading-list)
 
 - [Raft](./docs/learning/raft.pdf)
   - [Raft学习总结](./docs/learning/Raft论文学习.md)
