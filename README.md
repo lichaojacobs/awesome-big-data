@@ -24,7 +24,7 @@
 
 - [Airflow 实战总结](./docs/scheduler/airflow实战总结.md)
 
-### MR&Yarn
+### Hadoop
 - [Yarn架构实现解析](./docs/scheduler/Yarn架构解析.pdf)
 - [Yarn-Federation源码串读](./docs/scheduler/Yarn-Federation源码串读.md)
 - [Hadoop&Yarn Rpc源码剖析](./docs/scheduler/Hadoop-Rpc源码分析.md)
@@ -44,7 +44,7 @@
 - [kylin-master-slave同步原理及问题排查.md](./docs/olap/kylin-master-slave同步原理及问题排查.md)
 - [kylin-query原理剖析.md](./docs/olap/kylin-query原理剖析.md)
 
-### palo
+### Doris
 - [okhttp-support-100-continue-for-palo.md](./docs/olap/okhttp-support-100-continue-for-palo.md)
 
 ## 分布式系统论文
