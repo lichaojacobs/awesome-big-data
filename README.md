@@ -1,14 +1,10 @@
 # awesome-big-data
 大数据&&分布式系统学习过程中一些经验总结
 
-## RemoteShuffleService(RSS)
-- [各大厂RSS实现](https://zhuanlan.zhihu.com/p/462338206)
-
-## kubernetes
-
-- [kubernetes federation深度解析](./docs/engine/kubernetes-federation深度解析.md)
-
 ## 计算/查询/存储引擎相关
+
+### RemoteShuffleService(RSS)
+- [各大厂RSS实现](https://zhuanlan.zhihu.com/p/462338206)
 
 ### flink
 - [flink实战总结](./docs/engine/Flink实战总结.pdf)
@@ -28,13 +24,17 @@
 
 - [Airflow 实战总结](./docs/scheduler/airflow实战总结.md)
 
-### Yarn
+### MR&Yarn
 - [Yarn架构实现解析](./docs/scheduler/Yarn架构解析.pdf)
 - [Yarn-Federation源码串读](./docs/scheduler/Yarn-Federation源码串读.md)
-
-## Hadoop相关
 - [Hadoop&Yarn Rpc源码剖析](./docs/scheduler/Hadoop-Rpc源码分析.md)
 - [MR任务在Hadoop子系统中状态流转](./docs/scheduler/MR任务在Hadoop子系统中状态流转.md)
+- [Hadoop Pipes Ping Timeout问题排查](https://zhuanlan.zhihu.com/p/358167020)
+- [动态调整MR运行时object property方案](https://zhuanlan.zhihu.com/p/349907241)
+
+### kubernetes
+- [kubernetes federation深度解析](./docs/engine/kubernetes-federation深度解析.md)
+- [kubernetes shared Informer 源码解析](https://zhuanlan.zhihu.com/p/255078405)
 
 ## OLAP 相关
 
@@ -47,13 +47,9 @@
 ### palo
 - [okhttp-support-100-continue-for-palo.md](./docs/olap/okhttp-support-100-continue-for-palo.md)
 
-
-## 优秀博文汇总
-- [大数据&&后端优秀博文汇总](./docs/learning/优秀博文汇总.pdf)
-
 ## 分布式系统论文
 
-- ⭐️⭐️⭐️⭐️⭐️ [Howard大佬维护的共识算法知识库](https://github.com/heidihoward/distributed-consensus-reading-list)
+- [Howard大佬维护的共识算法知识库](https://github.com/heidihoward/distributed-consensus-reading-list)
 
 - [Raft](./docs/learning/raft.pdf)
   - [Raft学习总结](./docs/learning/Raft论文学习.md)
@@ -71,4 +67,8 @@
 	- [Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark](./docs/learning/sigmod_structured_streaming.pdf)
 
 - [Google Borg](./docs/learning/Google-With-Borg.pdf)
+
+
+## 优秀博文汇总
+- [大数据&&后端优秀博文汇总](./docs/learning/优秀博文汇总.pdf)
 
